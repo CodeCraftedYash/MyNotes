@@ -15,7 +15,7 @@ variables are declared within a function and are accessible only within it
 
 # Block Scope  
 variables are declared within a curly brackets {} using let or const and are accessible only within it  
-var are global scoped   
+var are function scoped   
 
 
 
