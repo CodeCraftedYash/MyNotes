@@ -1,6 +1,6 @@
 # Hoisting mechanism  
 hoisting mechanism is js behaviour , in which before code execution, variables and functions are allocated memory.  
-var is initialized with undefined and let and const are hoisted but not initialized they are put in TDZ and functions  
+var is initialized with undefined and let and const are hoisted but not initialized they are put in TDZ and functions
 are hosited fully.  
    
      
