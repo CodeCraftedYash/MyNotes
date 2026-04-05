@@ -20,3 +20,7 @@ written for interview preparation and real-world understanding.
 - [Prototype](01-core-javascript/15-js-prototype.md)
 - [ES6 Syntax Essential](01-core-javascript/16-js-ES-Syntax-Essential.md)
 - [Modules](01-core-javascript/17-js-modules.md)
+
+## Advanced Javascript
+
+- [Advanced Functions](02-advanced-javascript/01-advanced-functions.md)
